@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/串/串.iml" filepath="$PROJECT_DIR$/串/串.iml" />
+      <module fileurl="file://$PROJECT_DIR$/动态规划/动态规划.iml" filepath="$PROJECT_DIR$/动态规划/动态规划.iml" />
+      <module fileurl="file://$PROJECT_DIR$/排序算法/排序算法.iml" filepath="$PROJECT_DIR$/排序算法/排序算法.iml" />
+      <module fileurl="file://$PROJECT_DIR$/树结构/树结构.iml" filepath="$PROJECT_DIR$/树结构/树结构.iml" />
+    </modules>
+  </component>
+</project>
